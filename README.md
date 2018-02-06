@@ -1,5 +1,5 @@
 # flow-model
-Repository for location analysis with path-based demands
+Repository for location analysis with path-based demands.
 
 Location Analysis (LA) is a subset of operations research. Specifically, LA seeks to optimize the placement of facilities to satisfy some set of demands. 
 
